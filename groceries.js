@@ -1,5 +1,6 @@
 var item;
 var myList = [];
+
 function addItem(){
   var input = document.getElementById("newItem").value;
   var list = document.getElementById("listDisplay");
